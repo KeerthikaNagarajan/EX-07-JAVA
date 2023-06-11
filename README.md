@@ -1,18 +1,18 @@
-## Ex-7
+## Ex-07:
 ## INSERT THE ARRAY INTO THE ELEMENT
-### Aim:
+### AIM:
 To write the java program to insert an element into array
 
-### Procedure:
-* Create the class and declare the main method so that the JVM will identify the main program to run.
-* Declare an array and accept the input from user.
-* To accept the inputs from user import Scanner and get the input and store them.
-* Inside for loop use SCANEER to accept the elements of array
-* Print the output using for loop and SYSTEM.OUT.PRINT
-* The program will be executed after the compilation and results are printed.
+### ALGORITHM:
+1. Create the class and declare the main method so that the JVM will identify the main program to run.
+2. Declare an array and accept the input from user.
+3. To accept the inputs from user import Scanner and get the input and store them.
+4. Inside for loop use SCANEER to accept the elements of array
+5. Print the output using for loop and SYSTEM.OUT.PRINT
+6. The program will be executed after the compilation and results are printed.
 
-### Code:
-```
+### PROGRAM:
+```java
 import java.util.Scanner;
 public class Ex7 {
     public static void main(String[] args) {
@@ -30,9 +30,9 @@ public class Ex7 {
 }
 ```
 
-### Output:
+### OUTPUT:
 <img width="193" alt="7" src="https://github.com/KeerthikaNagarajan/Java-Ex-7/assets/93427089/1df6ff1d-d890-4e6a-b94c-f1769b126958">
 
-### Result:
+### RESULT:
 Thus The Program is complie successfully.
 
